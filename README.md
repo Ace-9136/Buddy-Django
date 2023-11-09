@@ -62,6 +62,9 @@ The communication between the client and the server is made mostly with ***AJAX*
 
 To make possible that ***JSON*** files carry images, the uploaded file size had to be limited at 3Mb, and allowed formats restrained to `.jpeg` (or `.jpg`), `.png`, `.gif` and `.bmp`. This is due to both the limit size of JSON files and the JavaScript conversion method `FileReader.readAsDataURL()` of binary data to **base64**.
 
-A full demonstration of this web application functionalities can be seen in this [video](https://youtu.be/4NOiRHDxFa8).
+![Screenshot 2023-10-26 202243](https://github.com/Ace-9136/Buddy-Django/assets/97794390/9170bc6d-260d-424a-a23a-3d0b3af1133a)
+![Screenshot 2023-10-22 063539](https://github.com/Ace-9136/Buddy-Django/assets/97794390/6bd09acd-7142-4da9-8b97-2da672d80ff8)
 
-##### ## Lucas Oliveira Corumbá ## CS50w Final Project ## ##
+
+
+
